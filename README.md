@@ -34,14 +34,14 @@ npm start
 The app will start on http://localhost:3000.
 
 ## 🗂️ Project Structure
-
+```
 src/
 ├── components/         # Reusable UI components
 ├── pages/              # Route pages like Home, About
 ├── App.js              # Main application component
 ├── index.js            # App entry point
 └── index.css           # Tailwind CSS imports
-
+```
 
 ## 📝 Student Instructions
 - Fork this repository to your own GitHub account
