@@ -20,7 +20,7 @@ Welcome to the official repository for our **React + Tailwind CSS Bootcamp**! Th
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/react-tailwind-bootcamp.git
+git clone https://github.com/YOUR-USERNAME/ReactDapp.git
 cd react-tailwind-bootcamp
 ```
 ### 2. Install Dependencies
