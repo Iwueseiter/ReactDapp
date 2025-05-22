@@ -3,7 +3,7 @@ import NavBar from "./navBar";
 export default function about() {
   return (
     <>
-      <NavBar />
+      <NavBar /> 
       <hr className="border-gray-300 p-5" />
       <section>
         <h2 className="text-center p-5 m-2 lg:text-2xl xl:text-4xl 2xl:text">News</h2>
